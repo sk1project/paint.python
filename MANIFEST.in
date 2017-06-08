@@ -1,0 +1,2 @@
+include LICENSE GPLv3.txt README.txt MANIFEST.in setup.cfg
+include buildutils.py
